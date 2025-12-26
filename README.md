@@ -9,7 +9,7 @@ J’aime transformer les données en **insights clairs et actionnables**.
 ---
 
 ##  Projets – Personnels
-  - [Analyse-les-performances-de-l-entreprise](https://github.com/sabah42/Analyse-les-performances-de-l-entreprise)
+  - [Analyse les performances de l'entreprise](https://github.com/sabah42/Analyse-les-performances-de-l-entreprise)
 
      → Analyse exploratoire, indicateurs clés, visualisation
   - [Assistant IA de veille Tech / IA](https://github.com/sabah42/Assistant-IA-automatis-de-veille-Tech-IA)
