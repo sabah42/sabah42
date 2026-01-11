@@ -3,7 +3,7 @@ Salut, je suis sabah assas
 **Data Analyst | Passionnée par la Data, la BI et l’Analyse décisionnelle**
 
 Bienvenue sur mon GitHub !  
-Tu trouveras ici mes projets **personnels**, mes projets réalisés dans le cadre de ma formation **OpenClassrooms**, ainsi que mon **projet de fin d’étude**.  
+Tu trouveras ici mes projets réalisés en **freelance** ainsi que mes projets académiques de formation   
 J’aime transformer les données en **insights clairs et actionnables**.
 
 ---
