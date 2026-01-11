@@ -8,7 +8,7 @@ J’aime transformer les données en **insights clairs et actionnables**.
 
 ---
 
-##  Projets – Personnels
+##  Projets – Freelance
   - [Analyse les performances de l'entreprise](https://github.com/sabah42/Analyse-les-performances-de-l-entreprise)
 
      → Analyse exploratoire, indicateurs clés, visualisation
