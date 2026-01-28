@@ -9,6 +9,9 @@ J’aime transformer les données en **insights clairs et actionnables**.
 ---
 
 ##  Projets – Freelance
+  - [Analyse des avis clients Amazon – Aspirateurs robots](https://github.com/sabah42/Analyse-des-avis-clients---Aspirateur-robots-Amazon-)
+    
+     → NLP, analyse des avis clients, Power BI, identification des problèmes récurrents et facteurs contextuels (prix, pays, usage)
   - [Analyse les performances de l'entreprise](https://github.com/sabah42/Analyse-les-performances-de-l-entreprise)
 
      → Analyse exploratoire, indicateurs clés, visualisation
