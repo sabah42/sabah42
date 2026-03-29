@@ -9,16 +9,22 @@ J’aime transformer les données en **insights clairs et actionnables**.
 ---
 
 ##  Projets – Freelance
-  - [Analyse des avis clients Amazon – Aspirateurs robots](https://github.com/sabah42/Analyse-des-avis-clients---Aspirateur-robots-Amazon-)
+ -  [Analyse territoriale des opportunités bancaires (Loire & Haute-Loire)](https://github.com/sabah42/territorial-bank-opportunities-analysis)
+  
+  → Analyse territoriale, scoring, K-Means (SAS), Power BI  
+  → Identification de communes à fort potentiel d’implantation bancaire  
+  → Validation terrain avec Google Maps  
+
+- [Analyse des avis clients Amazon – Aspirateurs robots](https://github.com/sabah42/Analyse-des-avis-clients---Aspirateur-robots-Amazon-)
     
      → NLP, analyse des avis clients, Power BI, identification des problèmes récurrents et facteurs contextuels (prix, pays, usage)
-  - [Analyse les performances de l'entreprise](https://github.com/sabah42/Analyse-les-performances-de-l-entreprise)
+- [Analyse les performances de l'entreprise](https://github.com/sabah42/Analyse-les-performances-de-l-entreprise)
 
      → Analyse exploratoire, indicateurs clés, visualisation
-  - [Assistant IA de veille Tech / IA](https://github.com/sabah42/Assistant-IA-automatis-de-veille-Tech-IA)
+- [Assistant IA de veille Tech / IA](https://github.com/sabah42/Assistant-IA-automatis-de-veille-Tech-IA)
 
     → Collecte d’informations, automatisation, NLP
-  - [Analyse du Marché Immobilier (2006-2023) - PowerBI](https://github.com/sabah42/Analyse-du-March-Immobilier-2006-2023-Power-BI)
+- [Analyse du Marché Immobilier (2006-2023) - PowerBI](https://github.com/sabah42/Analyse-du-March-Immobilier-2006-2023-Power-BI)
 
      → Analyse temporelle, tendances, dashboards interactifs
 
@@ -64,7 +70,8 @@ J’aime transformer les données en **insights clairs et actionnables**.
 
 ### Langages
 - Python  
-- SQL  
+- SQL
+- SAS 
 
 ### Data Analysis & Data Science
 - Collecte, nettoyage et préparation des données
@@ -97,7 +104,4 @@ J’aime transformer les données en **insights clairs et actionnables**.
 - **LinkedIn :** [Sabah ASSAS](https://www.linkedin.com/in/sabah-assas-b70413202/)  
 - **Email :** assas.sabah@gmail.com  
 
-<!---
-sabah42/sabah42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
