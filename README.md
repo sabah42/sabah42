@@ -11,9 +11,9 @@ J’aime transformer les données en **insights clairs et actionnables**.
 ##  Projets – Freelance
  -  [Analyse territoriale des opportunités bancaires (Loire & Haute-Loire)](https://github.com/sabah42/territorial-bank-opportunities-analysis)
   
-  → Analyse territoriale, scoring, K-Means (SAS), Power BI  
-  → Identification de communes à fort potentiel d’implantation bancaire  
-  → Validation terrain avec Google Maps  
+    → Analyse territoriale, scoring, K-Means (SAS), Power BI  
+    → Identification de communes à fort potentiel d’implantation bancaire  
+    → Validation terrain avec Google Maps  
 
 - [Analyse des avis clients Amazon – Aspirateurs robots](https://github.com/sabah42/Analyse-des-avis-clients---Aspirateur-robots-Amazon-)
     
