@@ -54,13 +54,13 @@ J’aime transformer les données en **insights clairs et actionnables**.
 ## Projet de fin d’étude
   - [Modélisation de la Volatilité du Taux de Change du Dinar Algérien](https://github.com/sabah42/-Mod-lisation-de-la-Volatilit-du-Taux-de-Change-du-Dinar-Alg-rien)
   
-   → Analyse de séries temporelles
+     → Analyse de séries temporelles
   
-   → Modélisation statistique et économétrique
+     → Modélisation statistique et économétrique
    
-   → Interprétation économique
+     → Interprétation économique
    
-   → Aide à la décision
+     → Aide à la décision
 
 *Projet académique avancé démontrant mes compétences analytiques et quantitatives*
 
