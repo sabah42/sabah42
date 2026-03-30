@@ -8,7 +8,7 @@ J’aime transformer les données en **insights clairs et actionnables**.
 
 ---
 
-##  Projets – Freelance
+##  Projets Data Analyst – Freelance & personnels
  -  [Analyse territoriale des opportunités bancaires (Loire & Haute-Loire)](https://github.com/sabah42/territorial-bank-opportunities-analysis)
   
     → Analyse territoriale, scoring, K-Means (SAS), Power BI  
