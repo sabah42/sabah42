@@ -9,6 +9,14 @@ J’aime transformer les données en **insights clairs et actionnables**.
 ---
 
 ##  Projets Data Analyst – Freelance & personnels
+
+- [Analyse du marché de la data en France (API France Travail)](https://github.com/sabah42/dashboard-marche-data)
+
+    → Collecte de données via API REST (France Travail, OAuth2)  
+    → Nettoyage, transformation et normalisation des salaires (Python, Pandas)  
+    → Dashboard interactif (Streamlit) avec analyse métier (offres, salaires, tendances)  
+    → Déploiement en ligne avec gestion sécurisée des clés (Secrets / .env)
+  
  -  [Analyse territoriale des opportunités bancaires (Loire & Haute-Loire)](https://github.com/sabah42/territorial-bank-opportunities-analysis)
   
     → Analyse territoriale, scoring, K-Means (SAS), Power BI  
