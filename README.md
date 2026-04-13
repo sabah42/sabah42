@@ -1,9 +1,15 @@
-Salut, je suis sabah assas
+Data Analyst | Python · SAS · Power BI · SQL
+Analyse territoriale · NLP· Modélisation · BI
 
-**Data Analyst | Passionnée par la Data, la BI et l’Analyse décisionnelle**
+Je construis des analyses end-to-end :
+collecte, nettoyage, modélisation, dashboard.
+
+Disponible en CDI — Full remote
+📩 assas.sabah@gmail.com
+🔗 linkedin.com/in/sabah-assas-b70413202
 
 Bienvenue sur mon GitHub !  
-Tu trouveras ici mes projets réalisés en **freelance** ainsi que mes projets académiques de formation   
+Tu trouveras ici mes projets data réalisés en autonomie — de l'analyse exploratoire jusqu'au déploiement.
 J’aime transformer les données en **insights clairs et actionnables**.
 
 ---
