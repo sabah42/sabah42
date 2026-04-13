@@ -8,7 +8,7 @@ J’aime transformer les données en **insights clairs et actionnables**.
 
 ---
 
-##  Projets Data Analyst – Freelance & personnels
+##  Projets Data Analyst 
 
 - [Analyse du marché de la data en France (API France Travail)](https://github.com/sabah42/dashboard-marche-data)
 
