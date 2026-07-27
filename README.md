@@ -16,6 +16,16 @@ J’aime transformer les données en **insights clairs et actionnables**.
 
 ##  Projets Data Analyst 
 
+- [JobFit AI – Matching intelligent CV / Offres d'emploi (IA)](https://github.com/sabah42/jobfit-ai)
+
+    → Développement d'une application web complète avec Python & Streamlit
+    → Analyse automatique d'un CV PDF (compétences, expérience, langues)
+    → Intégration de l'API France Travail (OAuth2) pour récupérer les offres d'emploi
+    → Calcul d'un score de compatibilité entre le CV et les offres
+    → Intégration d'un LLM (Groq) pour le diagnostic ATS et la génération d'un CV optimisé
+    → Géolocalisation des offres (Geopy / Nominatim)
+    → Déploiement sur Streamlit Cloud avec gestion sécurisée des clés API (Secrets)
+
 - [Analyse du marché de la data en France (API France Travail)](https://github.com/sabah42/dashboard-marche-data)
 
     → Collecte de données via API REST (France Travail, OAuth2)  
